@@ -37,4 +37,4 @@ Additional improvements:
 
 Best-performing model:
 - Random Forest regression on CNN embeddings
-- Best R² ≈ 0.148
+- Best R² ≈ 0.141
